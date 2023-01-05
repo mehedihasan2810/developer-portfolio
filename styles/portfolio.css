@@ -41,9 +41,10 @@
 
 /* header and nav styles */
 .header {
-  background-color: #fff8f3;
   background: url("../images/header_bg.png") no-repeat bottom right,
     url("../images/developer.png") no-repeat 2%;
+  background-color: #fff8f3;
+ display: flow-root;
 }
 nav {
   display: flex;
